@@ -1,11 +1,11 @@
 {
 	"file": "https://raw.githubusercontent.com/ipopa1995/Test/main/Compare.csv",
-	"name": "Shigella/Salmonella",
+	"name": "Test",
 	"header": 0,
 	"separator": ",",
 	"skip": 0,
 	"meta": [
-		{ "type": "id", "index": 0, "name": "Name" }
+		{ "type": "id", "index": 0, "name": "Protein" }
 	],
 	"sets": [
 		{ "format": "binary", "start": 1, "end": 4 }
