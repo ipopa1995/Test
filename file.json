@@ -5,7 +5,9 @@
 	"separator": ",",
 	"skip": 0,
 	"meta": [
-		{ "type": "id", "index": 0, "name": "Name" }
+		{ "type": "id", "index": 0, "name": "Protein" },
+		{ "type": "integer", "index": 3, "name": "Phospholyation" },
+		{ "type": "integer", "index": 4, "name": "Ubiquitination" }
 	],
 	"sets": [
 		{ "format": "binary", "start": 1, "end": 4 }
