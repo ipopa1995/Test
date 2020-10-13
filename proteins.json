@@ -1,0 +1,17 @@
+{
+	"file": "https://raw.githubusercontent.com/ipopa1995/Test/main/Proteins.csv",
+	"name": "Online Movies Genres ",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Name" },
+		{ "type": "string", "index": 3, "name": "Entry name" },
+		{ "type": "string", "index": 4, "name": "Satus" },
+        { "type": "string", "index": 5, "name": "Protein names" },
+        { "type": "integer", "index": 6, "name": "Length" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 2 }
+	]
+}
